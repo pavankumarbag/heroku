@@ -27,8 +27,9 @@ st.write(data)
 #Getting largest
 
 numbers = [data['First_Number'],data['Second_Number'],data['Third_Number']]
+numbers.sort()
 
 #Output
 
 st.subheader('Greatest number among the given inputs is:')
-st.write(type(number_1))
+st.write(type(numbers))
