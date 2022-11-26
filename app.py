@@ -27,7 +27,8 @@ st.write(data)
 #Getting largest
 
 list1 = [data['First_Number'],data['Second_Number'],data['Third_Number']]
-output1 = list1.max()
+list1 = list1.sort()
+output1 = list1[-1]
 
 #Output
 
