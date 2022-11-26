@@ -32,4 +32,4 @@ numbers.sort()
 #Output
 
 st.subheader('Greatest number among the given inputs is:')
-st.write(type(numbers))
+st.write(numbers)
