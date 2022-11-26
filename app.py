@@ -31,4 +31,4 @@ numbers = [data['First_Number'],data['Second_Number'],data['Third_Number']]
 #Output
 
 st.subheader('Greatest number among the given inputs is:')
-st.write(numbers)
+st.write(type(number_1))
