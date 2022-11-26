@@ -26,7 +26,7 @@ st.write(data)
 
 #Getting largest
 
-numbers = [number_1,number_2,number_3]
+numbers = [data['First_Number'],data['Second_Number'],data['Third_Number']]
 
 #Output
 
