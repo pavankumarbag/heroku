@@ -26,9 +26,9 @@ st.write(data)
 
 #Getting largest
 
-output1 = max(number_1,number_2,number_3)
+#output1 = max(number_1,number_2,number_3)
 
 #Output
 
 st.subheader('Greatest number among the given inputs is:')
-st.write(output1)
+#st.write(output1)
