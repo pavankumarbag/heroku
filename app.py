@@ -26,9 +26,7 @@ st.write(data)
 
 #Getting largest
 
-list1 = [number_1,number_2,number_3]
-list1 = list1.sort()
-output1=list1[-1]
+output1 = max(number_1,number_2,number_3)
 
 #Output
 
