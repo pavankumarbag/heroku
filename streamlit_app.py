@@ -1,8 +1,8 @@
 import streamlit as st
 
 st.write("""
-# Finding largest of 3 given numbers
-This app finds the value greater than other two numbers
+# Subtracton of two numbers
+This app finds the difference between two numbers
 """)
 #Get Input
 
