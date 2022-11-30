@@ -25,7 +25,7 @@ st.write(data)
 #Getting largest
 
 numbers = [data['First_Number'],data['Second_Number']]
-numbers.sort()
+#numbers.sort()
 
 #Output
 
