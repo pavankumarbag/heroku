@@ -30,4 +30,4 @@ numbers.sort()
 #Output
 
 st.subheader('Subtraction of two nos is:')
-st.write(numbers[1]-number[2)
+st.write(numbers[1]-number[2])
